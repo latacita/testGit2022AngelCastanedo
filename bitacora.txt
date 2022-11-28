@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+22	   add bitacora.txt
+23	   commit -m "Paso 23"
+24     checkout master
+25 									Con los cambios realizados en este
+									mismo paso, sería por recursión
