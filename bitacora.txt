@@ -18,3 +18,6 @@
 14	   commit -m "Paso 14"
 15	   checkout Historia001
 16	   stash apply
+19	   commit -m "Paso 19"
+20     merge Historia000 			Fusion por recursion con conflictos
+									Hay dos commit ya que se me olvido guardar
