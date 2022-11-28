@@ -11,3 +11,8 @@
 24     checkout master
 25 									Con los cambios realizados en este
 									mismo paso, sería por recursión
+26	   add bitacora.txt
+	   commit -m "Paso 26"
+27	   git tag RespuestaPreguntaFusion
+28     git push						Se hizo primero un git pull ya que había
+									cambios en el repositorio remoto
