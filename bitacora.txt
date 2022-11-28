@@ -6,18 +6,15 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-<<<<<<< HEAD
+3	   branch Historia000
+4      branch Historia001
+5	   checkout Historia000
 7	   add bitacora.txt
 8	   commit -m "Paso 08"
 9	   git checkout Historia001
+11	   stash
+11	   checkout Historia000
 13	   add bitacora.txt
 14	   commit -m "Paso 14"
 15	   checkout Historia001
 16	   stash apply
-=======
-3	   branch Historia000
-4      branch Historia001
-5	   checkout Historia000
-11	   stash
-11	   checkout Historia000
->>>>>>> Historia000
