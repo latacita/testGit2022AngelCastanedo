@@ -1,11 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):  Castanedo Grande, Ángel                                    %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+<<<<<<< HEAD
 7	   add bitacora.txt
 8	   commit -m "Paso 08"
 9	   git checkout Historia001
@@ -13,3 +14,10 @@
 14	   commit -m "Paso 14"
 15	   checkout Historia001
 16	   stash apply
+=======
+3	   branch Historia000
+4      branch Historia001
+5	   checkout Historia000
+11	   stash
+11	   checkout Historia000
+>>>>>>> Historia000
