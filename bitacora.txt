@@ -31,3 +31,6 @@
 27	   git tag RespuestaPreguntaFusion
 28     git push						Se hizo primero un git pull ya que había
 									cambios en el repositorio remoto
+30     add bitacora.txt
+	   commit -m "Paso 30"
+31     git merge Historia001		Fusion por recursion con conflictos
